@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente trabajo en mis propios proyectos!
 - 🌱 Me gusta ayudar a pequeños y grandes emprendimientos
-- 🥅 Metas 2020: Volverme millonario 🤣
+- 🥅 Metas 2024: Volverme trillionario 🤣
 - ⚡ Fun fact: Programo desde los 12 años y aun me considero un programador Jr
 
 <br />
@@ -16,12 +16,20 @@
 ### 🚀 Mis proyectos
 
 
-- [Quetal.pe](https://quetal.pe)
-- [Send files online](https://sendfiles.online)
-- [Carros](https://carros.com)
-- [Curriculum Vitae](https://curriculumvitae.net)
-- [Email Signature](https://emailsignature.org)
-- [Yout](https://yout.com)
+- [TL;DR AI: Too long; didn't read](https://tldrai.com/)
+- [TL;DW AI: Too long; didn't watch](https://tldwai.com/)
+- [Image Upscaler AI](https://imageupscalerai.com/)
+- [Wallpapers AI](https://wallpapers.ai/)
+- [Interior Decorator AI](https://interiordecorator.ai/)
+- [Image Editor AI](https://imageeditor.ai/)
+- [Video Editor AI](https://videoeditorai.com/)
+- [Remove Background AI](https://removebackgroundai.com/)
+- [PostalCodes.app](https://postalcodes.app/)
+- [NS6.com](https://ns6.com/)
+- [Travel.to](https://travel.to/)
+- [Send files online](https://sendfiles.online/)
+- [Carros](https://carros.com/)
+- [Yout](https://yout.com/)
 
 ➡️ [ver más...](https://loualcala.com)
 
